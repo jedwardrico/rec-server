@@ -36,4 +36,4 @@ $ yarn run test:cov
 
 ## Stay in touch
 
-- Author - [Jacob Rico](jacobrico.com)
+- Author - [Jacob Rico](https://github.com/jedwardrico)
