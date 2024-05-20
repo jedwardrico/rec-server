@@ -1,6 +1,6 @@
 ## Description
 
-Sever component for Rec FE coding assessment using the [Nest](https://github.com/nestjs/nest) framework. Hosted at [https://rec-server-nf5j.onrender.com](https://rec-server-nf5j.onrender.com)
+Sever component for Rec FE coding assessment using the [Nest](https://github.com/nestjs/nest) framework.
 
 ## Installation
 
